@@ -5,5 +5,4 @@
 ### - 👯 I’m looking to collaborate on GameDev
 ### - 🤔 I’m looking for help with Kotlin and Unity
 ### - 📫 How to reach me: Write me in telegram or e-mail
-### - 😄 Pronouns: Petrov Nikita
 
