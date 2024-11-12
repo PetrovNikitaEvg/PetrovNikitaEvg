@@ -1,4 +1,4 @@
-# 🤔 C#, Kotlin, Java, C++, BP, SQL
-## - 👯 I need work
-### - 📫 How to reach me: Write me in telegram or e-mail
+# C#, Kotlin, Java, C++, BP, SQL.
+## I'm looking for a job.
+### 📫 tg: https://t.me/shugizzw e-mail:Shug1zawa@yandex.ru
 
